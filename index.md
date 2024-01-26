@@ -1,5 +1,6 @@
 ---
-title: Main
+title: Hi!
+subtitle: whats good
 ---
 # hi.
 :3
