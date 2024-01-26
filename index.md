@@ -6,7 +6,7 @@ title: xavi's site
 
 # What's this domain going to be used for?
 - Documentation for stuff I make in the future
-- [Projects in general](https://xavicloud/projects)
+- [Projects in general](https://xavicloud.com/projects)
 - Other... stuff
 
 yeah.
