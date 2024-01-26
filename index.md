@@ -1,5 +1,5 @@
 ---
-title: Hi!
+title: xavi's site
 ---
 # Welcome to this site
 <font color=gray>Can you tell I hated the fact that my domain wasn't going anywhere lol?</font>
