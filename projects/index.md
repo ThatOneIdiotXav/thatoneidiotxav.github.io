@@ -2,4 +2,4 @@
 title: Projects
 ---
 
-- [Project Banana](https://xavicloud.com/projects/banan)
+None published on the site, yet.
