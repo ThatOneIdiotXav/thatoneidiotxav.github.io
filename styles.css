@@ -1,0 +1,92 @@
+/* i suck absolute ass w/ html+css so like... expect a lot of w3scroll link comments. 
+		   i'll try to get better w/ it eventually i swear */
+
+@font-face {
+	font-family: bodoamat;
+	src: url('./fonts/Bodo Amat.ttf');
+}
+
+body {
+	font-family: bodoamat;
+	margin: 0;
+	padding: 0;
+
+	background-color: #222;
+	color: white;
+}
+
+/* https://www.w3schools.com/howto/howto_css_responsive_header.asp */
+/* header */
+.header {
+	overflow: hidden;
+	/* position: absolute; */
+	width: 100%;
+	background-color: #FF8400;
+	box-sizing: inherit;
+}
+
+/* Header links */
+.header a {
+	float: left;
+	color: black;
+	text-align: center;
+	padding: 12px;
+	text-decoration: none;
+	font-size: 18px;
+	line-height: 25px;
+	border-radius: 0px;
+}
+
+/* Title */
+.header a.title {
+	font-size: 25px;
+	font-weight: 400;
+}
+
+/* mouse hover */
+.header a:hover {
+	background-color: #ffa94d;
+	color: black;
+}
+
+/* active */
+.header a.active {
+	background-color: #884804;
+	color: white;
+}
+
+.header-right {
+	float: right;
+}
+
+@media screen and (max-width: 500px) {
+	.header a {
+		float: none;
+		display: block;
+		text-align: left;
+	}
+
+	.header right {
+		float: none;
+	}
+}
+/* w3 shit ends here */
+
+.title-card {
+	margin-top: 25px;
+	text-align: center;
+	display: block;
+}
+
+.title-card-top {
+	font-size: 64px;
+	padding-bottom: 20px;
+	font-weight: 500;
+}
+
+.title-card-desc {
+	top: 0;
+	font-size: 24px;
+	font-weight: 100;
+	margin: 0;
+}
