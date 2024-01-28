@@ -53,7 +53,7 @@ body {
 .header a.active {
 	background-color: #884804;
 	color: white;
-}
+} 
 
 .header a.inactive {
 	background-color: #4b2700;
