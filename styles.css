@@ -55,6 +55,11 @@ body {
 	color: white;
 }
 
+.header a.inactive {
+	background-color: #4b2700;
+	color: #FF8400;
+}
+
 .header-right {
 	float: right;
 }
