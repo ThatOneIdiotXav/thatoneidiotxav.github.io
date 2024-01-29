@@ -1,5 +1,4 @@
-/* i suck absolute ass w/ html+css so like... expect a lot of w3scroll link comments. 
-		   i'll try to get better w/ it eventually i swear */
+
 
 @font-face {
 	font-family: poppins;
@@ -19,6 +18,26 @@ body {
 	color: white;
 }
 
+th {
+	border-bottom: 1px solid white;
+	border-collapse:collapse;
+}
+
+.charts-list {
+	border: 1px solid white;
+	border-collapse:collapse;
+}
+
+.charts-header {
+	width:10%;
+}
+
+.charts-header-comments {
+	width:60%;
+}
+
+/* i suck absolute ass w/ html+css so like... expect a lot of w3school link comments. 
+		   i'll try to get better w/ it eventually i swear */
 /* https://www.w3schools.com/howto/howto_css_responsive_header.asp */
 /* header */
 .header {
@@ -63,7 +82,8 @@ body {
 }
 
 .header a.inactive {
-	opacity:.6;cursor:not-allowed;
+	opacity:.6;
+	cursor:not-allowed;
 }
 
 .header-right {
